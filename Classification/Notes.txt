@@ -1,0 +1,29 @@
+	1- NULLS : Fill for new test script (make dict)
+
+	4- Handle Unknown Values (Map to others or model responsibility)
+
+	6- Balancing the data
+
+	7- apply PCA
+
+	8- TRY drop columns or keep
+
+	2- Handle Test Script with 4 csv files 
+
+	11- in test sript fix name and genres in feature engineering
+
+	12- in test script fix supported platform , genres in encoding
+
+	3- plot train , test time for models 
+
+
+
+	5- split data 70, 20, 10-> for test script
+
+	13- combine data with best model
+
+	14- test script for regression
+
+9- Deployment for classification & regression
+
+10- tech report 
